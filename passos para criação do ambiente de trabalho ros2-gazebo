@@ -1,9 +1,0 @@
-1. Instalação ROS2 Humble
-https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
-2. Instalação Gazebo Fostress 
-https://gazebosim.org/docs/fortress/install_ubuntu
-3. Configuração da área de trabalho
-https://docs.ros.org/en/humble/Tutorials/Advanced/Simulators/Gazebo.html
-
-Obs: Sempre utilizar o passo a seguir antes de iniciar uma integração ROS-Gazebo:
-source /opt/ros/humble/setup.bash
